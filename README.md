@@ -2,5 +2,5 @@
 ## This is a test repo, I am still learning
 ### Below is a code block
 ```
-python3 filename.py
+python3 hello_world.py
 ```
