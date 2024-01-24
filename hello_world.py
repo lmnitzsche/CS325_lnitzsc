@@ -10,6 +10,7 @@ def collatz_sequence(n):
     return steps
 
 try:
+    print("\nThis is a Collatz Conjecture Calculator")
     start_number = int(input("Enter a positive integer to start the Collatz sequence: "))
     if start_number <= 0:
         print("Please enter a positive integer.")
